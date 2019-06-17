@@ -1,0 +1,21 @@
+INDÉX DA CONSTITUIÇÃO DA REPÚBLICA
+[[slnc 1000]]
+
+
+166. O que é o Direito Constitucional? [[slnc 1200]]
+167. Quantas Constituições existiram em Portugal? [[slnc 1200]]
+168. Qual a data da atual Constituição da República Portuguesa? [[slnc 1200]]
+169. Quantas foram as revisões constitucionais de que já foi objéto a atual Constituição da República Portuguesa? [[slnc 1200]]
+170. Qual o sentido das sete revisões constitucionais? [[slnc 1200]]
+171. O que é a função política? [[slnc 1200]]
+172. O que é a função legislativa? [[slnc 1200]]
+173. O que é a função jurisdicional? [[slnc 1200]]
+174. O que é a função administrativa? [[slnc 1200]]
+175. Quais são os Órgãos de Soberania? [[slnc 1200]]
+176. Quais os Órgãos de Soberania eleitos? [[slnc 1200]]
+177. Quais os Órgãos de Soberania não eleitos? [[slnc 1200]]
+178. Quais os Órgãos de Estado que não possuem estatuto de Órgãos de Soberania? [[slnc 1200]]
+179. O que são direitos fundamentais? [[slnc 1200]]
+180. Quais as categorias de direitos fundamentais consagradas na CRP? [[slnc 1200]]
+181. Quais as categorias de direitos, liberdades e garantias? [[slnc 1200]]
+182. Quais as categorias de direitos económicos, sociais e culturais? [[slnc 1200]]
