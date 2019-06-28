@@ -1,5 +1,4 @@
-INDÉX DOS INDÉXS
-
+ÍNDICE DOS ÍNDICES
 [[slnc 1000]]
 
 01) 25 mais 1 noções introdutórias
