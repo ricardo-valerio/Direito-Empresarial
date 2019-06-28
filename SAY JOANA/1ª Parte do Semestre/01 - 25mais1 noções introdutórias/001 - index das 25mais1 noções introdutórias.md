@@ -1,4 +1,4 @@
-INDÉX DAS 25+1 NOÇÕES INTRODUTÓRIAS.
+01) INDÉX DAS 25+1 NOÇÕES INTRODUTÓRIAS.
 [[slnc 1000]]
 
 1. Como se pode definir o Direito? [[slnc 1200]]
