@@ -19,7 +19,10 @@ INDÉX DAS 18 NOÇÕES INTRODUTÓRIAS DE DIREITO COMERCIAL.
 324. Qual a definição de direito comercial para a conceção subjectivista moderna?
 [[slnc 1200]]
 
-325. Quais os pontos de contacto entre a conceção subjectivista clássica e conceção obje tivista? 326. Quais as diferenças entre a conceção subjectivista clássica e conceção objectivista?
+325. Quais os pontos de contacto entre a conceção subjectivista clássica e conceção objetivista?
+[[slnc 1200]]
+
+326. Quais as diferenças entre a conceção subjectivista clássica e conceção objectivista?
 [[slnc 1200]]
 
 327. O que se entende por comércio enquanto objeto do direito comercial?
